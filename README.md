@@ -5,5 +5,5 @@ To install:
 
 ```
 brew tap theeternalsw0rd/telnet
-brew install telnet
+brew install theeternalsw0rd/telnet/telnet
 ```
